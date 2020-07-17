@@ -1,0 +1,37 @@
+{
+  "name": "react-native-murmurhash",
+  "version": "1.0.0",
+  "description": "MurmurHash algorithms for react native apps",
+  "main": "index.js",
+  "author": {
+    "name": "Emilien Domenge-Heritier",
+    "email": "emilien.domenge-heritier@abtasty.com"
+  },
+  "contributors": [
+    {
+      "name": "Emilien Domenge-Heritier",
+      "email": "emilien.domenge-heritier@abtasty.com",
+      "url": "https://domenge.fr"
+    },
+    {
+      "name": "Gary Court",
+      "email": "gary.court@gmail.com"
+    },
+    {
+      "name": "Derek Perez",
+      "email": "derek@derekperez.com"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "murmurhash",
+    "react-native",
+    "reactnative"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "buffer": "^5.6.0"
+  }
+}
