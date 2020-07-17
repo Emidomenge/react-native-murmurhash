@@ -1,6 +1,6 @@
 {
   "name": "react-native-murmurhash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MurmurHash algorithms for react native apps",
   "main": "index.js",
   "author": {
